@@ -1,14 +1,11 @@
-<a name="to_lift"><h2>Game Snake</h2></a>
+<h2>Game Snake</h2>
 
 #### Snake Game Ruby with Ruby 2D gem.
-
-[Up](#to_lift)
 
 <a name="description"><h4>Description</h4></a>
 
 The game process consists in controlling a chain of consecutive pixels ("snakes") moving along a marked area of the screen, using the arrow keys of the keyboard: left, right, up and down. The goal of the game: to direct the "snake" to randomly appear on the screen points, in order to "eat" them. For each point, the player receives one point, the number of which is not stored outside the game and is output to the console after the game ends. The winner is the one who gets the most points.
 
-[Up](#to_lift)
 
 <a name="how_to_use"><h4>How to use</h4></a>
 
@@ -37,4 +34,3 @@ following commands:
 
     `ruby snake.rb`
 
-[Up](#to_lift)
